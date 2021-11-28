@@ -1,0 +1,27 @@
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Acceso a Datos\bin\Debug\Acceso a Datos.dll
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Acceso a Datos\bin\Debug\Acceso a Datos.pdb
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Acceso a Datos\bin\Debug\Entidades.dll
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Acceso a Datos\bin\Debug\Entidades.pdb
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Acceso a Datos\obj\Debug\Acceso a Datos.csproj.CoreCompileInputs.cache
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Acceso a Datos\obj\Debug\Acceso a Datos.csproj.CopyComplete
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Acceso a Datos\obj\Debug\Acceso a Datos.dll
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Acceso a Datos\obj\Debug\Acceso a Datos.pdb
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Acceso a Datos\obj\Debug\Acceso a Datos.csproj.AssemblyReference.cache
+D:\Mensajeria2\Acceso a Datos\bin\Debug\Acceso a Datos.dll
+D:\Mensajeria2\Acceso a Datos\bin\Debug\Acceso a Datos.pdb
+D:\Mensajeria2\Acceso a Datos\bin\Debug\Entidades.dll
+D:\Mensajeria2\Acceso a Datos\bin\Debug\Entidades.pdb
+D:\Mensajeria2\Acceso a Datos\obj\Debug\Acceso a Datos.csproj.AssemblyReference.cache
+D:\Mensajeria2\Acceso a Datos\obj\Debug\Acceso a Datos.csproj.CoreCompileInputs.cache
+D:\Mensajeria2\Acceso a Datos\obj\Debug\Acceso a Datos.csproj.CopyComplete
+D:\Mensajeria2\Acceso a Datos\obj\Debug\Acceso a Datos.dll
+D:\Mensajeria2\Acceso a Datos\obj\Debug\Acceso a Datos.pdb
+E:\Mensajeria2\Acceso a Datos\bin\Debug\Acceso a Datos.dll
+E:\Mensajeria2\Acceso a Datos\bin\Debug\Acceso a Datos.pdb
+E:\Mensajeria2\Acceso a Datos\bin\Debug\Entidades.dll
+E:\Mensajeria2\Acceso a Datos\bin\Debug\Entidades.pdb
+E:\Mensajeria2\Acceso a Datos\obj\Debug\Acceso a Datos.csproj.AssemblyReference.cache
+E:\Mensajeria2\Acceso a Datos\obj\Debug\Acceso a Datos.csproj.CoreCompileInputs.cache
+E:\Mensajeria2\Acceso a Datos\obj\Debug\Acceso a Datos.csproj.CopyComplete
+E:\Mensajeria2\Acceso a Datos\obj\Debug\Acceso a Datos.dll
+E:\Mensajeria2\Acceso a Datos\obj\Debug\Acceso a Datos.pdb

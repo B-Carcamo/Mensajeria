@@ -1,0 +1,15 @@
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Entidades\bin\Debug\Entidades.dll
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Entidades\obj\Debug\Entidades.dll
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Entidades\obj\Debug\Entidades.pdb
+D:\Mensajeria2\Entidades\bin\Debug\Entidades.dll
+D:\Mensajeria2\Entidades\bin\Debug\Entidades.pdb
+D:\Mensajeria2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Mensajeria2\Entidades\obj\Debug\Entidades.dll
+D:\Mensajeria2\Entidades\obj\Debug\Entidades.pdb
+E:\Mensajeria2\Entidades\bin\Debug\Entidades.dll
+E:\Mensajeria2\Entidades\bin\Debug\Entidades.pdb
+E:\Mensajeria2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Mensajeria2\Entidades\obj\Debug\Entidades.dll
+E:\Mensajeria2\Entidades\obj\Debug\Entidades.pdb

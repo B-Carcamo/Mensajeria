@@ -1,0 +1,49 @@
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Servidor\bin\Debug\Servidor.exe
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Servidor\bin\Debug\Acceso a Datos.dll
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Servidor\bin\Debug\Entidades.dll
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Servidor\bin\Debug\Acceso a Datos.pdb
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Servidor\bin\Debug\Entidades.pdb
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Servidor\obj\Debug\Servidor.Form1.resources
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Servidor\obj\Debug\Servidor.csproj.CopyComplete
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Servidor\obj\Debug\Servidor.exe
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Servidor\obj\Debug\Servidor.pdb
+D:\Mensajeria2\Servidor\bin\Debug\Servidor.exe.config
+D:\Mensajeria2\Servidor\bin\Debug\Servidor.exe
+D:\Mensajeria2\Servidor\bin\Debug\Servidor.pdb
+D:\Mensajeria2\Servidor\bin\Debug\Entidades.dll
+D:\Mensajeria2\Servidor\bin\Debug\Negocio.dll
+D:\Mensajeria2\Servidor\bin\Debug\Acceso a Datos.dll
+D:\Mensajeria2\Servidor\bin\Debug\Entidades.pdb
+D:\Mensajeria2\Servidor\bin\Debug\Negocio.pdb
+D:\Mensajeria2\Servidor\bin\Debug\Acceso a Datos.pdb
+D:\Mensajeria2\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+D:\Mensajeria2\Servidor\obj\Debug\Servidor.Form1.resources
+D:\Mensajeria2\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+D:\Mensajeria2\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+D:\Mensajeria2\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+D:\Mensajeria2\Servidor\obj\Debug\Servidor.csproj.CopyComplete
+D:\Mensajeria2\Servidor\obj\Debug\Servidor.exe
+D:\Mensajeria2\Servidor\obj\Debug\Servidor.pdb
+E:\Mensajeria2\Servidor\bin\Debug\Servidor.exe.config
+E:\Mensajeria2\Servidor\bin\Debug\Servidor.exe
+E:\Mensajeria2\Servidor\bin\Debug\Servidor.pdb
+E:\Mensajeria2\Servidor\bin\Debug\Entidades.dll
+E:\Mensajeria2\Servidor\bin\Debug\Negocio.dll
+E:\Mensajeria2\Servidor\bin\Debug\Acceso a Datos.dll
+E:\Mensajeria2\Servidor\bin\Debug\Entidades.pdb
+E:\Mensajeria2\Servidor\bin\Debug\Negocio.pdb
+E:\Mensajeria2\Servidor\bin\Debug\Acceso a Datos.pdb
+E:\Mensajeria2\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+E:\Mensajeria2\Servidor\obj\Debug\Servidor.Form1.resources
+E:\Mensajeria2\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+E:\Mensajeria2\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+E:\Mensajeria2\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+E:\Mensajeria2\Servidor\obj\Debug\Servidor.csproj.CopyComplete
+E:\Mensajeria2\Servidor\obj\Debug\Servidor.exe
+E:\Mensajeria2\Servidor\obj\Debug\Servidor.pdb

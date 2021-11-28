@@ -1,0 +1,22 @@
+D:\Mensajeria2\Negocio\bin\Debug\Negocio.dll
+D:\Mensajeria2\Negocio\bin\Debug\Negocio.pdb
+D:\Mensajeria2\Negocio\bin\Debug\Acceso a Datos.dll
+D:\Mensajeria2\Negocio\bin\Debug\Entidades.dll
+D:\Mensajeria2\Negocio\bin\Debug\Acceso a Datos.pdb
+D:\Mensajeria2\Negocio\bin\Debug\Entidades.pdb
+D:\Mensajeria2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Mensajeria2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Mensajeria2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Mensajeria2\Negocio\obj\Debug\Negocio.dll
+D:\Mensajeria2\Negocio\obj\Debug\Negocio.pdb
+E:\Mensajeria2\Negocio\bin\Debug\Negocio.dll
+E:\Mensajeria2\Negocio\bin\Debug\Negocio.pdb
+E:\Mensajeria2\Negocio\bin\Debug\Acceso a Datos.dll
+E:\Mensajeria2\Negocio\bin\Debug\Entidades.dll
+E:\Mensajeria2\Negocio\bin\Debug\Acceso a Datos.pdb
+E:\Mensajeria2\Negocio\bin\Debug\Entidades.pdb
+E:\Mensajeria2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+E:\Mensajeria2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\Mensajeria2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+E:\Mensajeria2\Negocio\obj\Debug\Negocio.dll
+E:\Mensajeria2\Negocio\obj\Debug\Negocio.pdb

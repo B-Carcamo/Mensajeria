@@ -1,0 +1,41 @@
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Mensajeria\bin\Debug\Mensajeria.exe.config
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Mensajeria\bin\Debug\Mensajeria.exe
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Mensajeria\bin\Debug\Mensajeria.pdb
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Mensajeria\bin\Debug\Entidades.dll
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Mensajeria\bin\Debug\Entidades.pdb
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Mensajeria\obj\Debug\Mensajeria.csproj.AssemblyReference.cache
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Mensajeria\obj\Debug\Mensajeria.Login.resources
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Mensajeria\obj\Debug\Mensajeria.Properties.Resources.resources
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Mensajeria\obj\Debug\Mensajeria.csproj.GenerateResource.cache
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Mensajeria\obj\Debug\Mensajeria.csproj.CoreCompileInputs.cache
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Mensajeria\obj\Debug\Mensajeria.csproj.CopyComplete
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Mensajeria\obj\Debug\Mensajeria.exe
+C:\Users\Carcamo Segura\source\repos\Mensajeria\Mensajeria\obj\Debug\Mensajeria.pdb
+D:\Mensajeria2\Mensajeria\bin\Debug\Mensajeria.exe.config
+D:\Mensajeria2\Mensajeria\bin\Debug\Mensajeria.exe
+D:\Mensajeria2\Mensajeria\bin\Debug\Mensajeria.pdb
+D:\Mensajeria2\Mensajeria\bin\Debug\Entidades.dll
+D:\Mensajeria2\Mensajeria\bin\Debug\Entidades.pdb
+D:\Mensajeria2\Mensajeria\obj\Debug\Mensajeria.csproj.AssemblyReference.cache
+D:\Mensajeria2\Mensajeria\obj\Debug\Mensajeria.FormMensajes.resources
+D:\Mensajeria2\Mensajeria\obj\Debug\Mensajeria.Login.resources
+D:\Mensajeria2\Mensajeria\obj\Debug\Mensajeria.Properties.Resources.resources
+D:\Mensajeria2\Mensajeria\obj\Debug\Mensajeria.csproj.GenerateResource.cache
+D:\Mensajeria2\Mensajeria\obj\Debug\Mensajeria.csproj.CoreCompileInputs.cache
+D:\Mensajeria2\Mensajeria\obj\Debug\Mensajeria.csproj.CopyComplete
+D:\Mensajeria2\Mensajeria\obj\Debug\Mensajeria.exe
+D:\Mensajeria2\Mensajeria\obj\Debug\Mensajeria.pdb
+E:\Mensajeria2\Mensajeria\bin\Debug\Mensajeria.exe.config
+E:\Mensajeria2\Mensajeria\bin\Debug\Mensajeria.exe
+E:\Mensajeria2\Mensajeria\bin\Debug\Mensajeria.pdb
+E:\Mensajeria2\Mensajeria\bin\Debug\Entidades.dll
+E:\Mensajeria2\Mensajeria\bin\Debug\Entidades.pdb
+E:\Mensajeria2\Mensajeria\obj\Debug\Mensajeria.csproj.AssemblyReference.cache
+E:\Mensajeria2\Mensajeria\obj\Debug\Mensajeria.FormMensajes.resources
+E:\Mensajeria2\Mensajeria\obj\Debug\Mensajeria.Login.resources
+E:\Mensajeria2\Mensajeria\obj\Debug\Mensajeria.Properties.Resources.resources
+E:\Mensajeria2\Mensajeria\obj\Debug\Mensajeria.csproj.GenerateResource.cache
+E:\Mensajeria2\Mensajeria\obj\Debug\Mensajeria.csproj.CoreCompileInputs.cache
+E:\Mensajeria2\Mensajeria\obj\Debug\Mensajeria.csproj.CopyComplete
+E:\Mensajeria2\Mensajeria\obj\Debug\Mensajeria.exe
+E:\Mensajeria2\Mensajeria\obj\Debug\Mensajeria.pdb
